@@ -1,4 +1,4 @@
-# McKinsley prohack 2020
+# McKinsey & Company prohack 2020
 
 Repository contains an updated version of my solution of the competition task. <br>
 I took 62nd place out of 872 competitors with the submitted solution. <br>
