@@ -11,8 +11,8 @@ The task consisted of two parts:
 
 Provided data was partly anonymized, names of countries and years were replaced by some arbitrary `galaxies` and `galactic years`. <br>
 I suppose that it was done in order to prevent data leakage, as participants can find specific information about countries in open sources. <br>
-Organizers provided formula to calculate `potential for increase in index` and `likelihood for index increase`. <br> 
-`likelihood for index increase` depends on `potential for increase in index` and `energy`. which is the way the organizers called resources to be allocated. There were also few constraints on `energy` allocation in optimisation task. <br>
+Organizers provided formula to calculate `potential for increase in index` and `likelihood for index increase`. as $\sum a b$ <br>
+`likelihood for index increase` depends on `potential for increase in index` and `energy` which is the way the organizers called resources to be allocated. There were also few constraints on `energy` allocation in optimisation task. <br>
 Solution scoring was based on a combined scaled metric: <br>
 
   80% prediction task RMSE + 20% optimization task RMSE * lambda, where lambda is a normalizing factor
