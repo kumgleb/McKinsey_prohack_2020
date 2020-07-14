@@ -22,8 +22,8 @@ As a result of EDA I ended up with a validation strategy and few strategies for 
 The first approach was to perform a generalized additive model based on  the time component. The second was to use the cleaned dataset with engineering features for gradient boosting model. Then I performed simple ensembling of those models using weighted sum of predictions. <br>
 For optimisation task I applied probabilistic approach in order to take into account potential errors in `well being index`. <br>
 All parts of the solution are divided in separate notebooks:
-1. EDA (basic data analysis and formulation of solution and validation strategies)
-2. Data cleaning and feature generation (dealing with missing values, preprocessing and feature generation)
+1. EDA (basic data analysis and formulation of solution strategies)
+2. Data preprocessing and feature generation (dealing with missing values, preprocessing and feature generation)
 3. Models (LinearGAM and CatBoost models, ensembling)
 4. Optimisation task
 
